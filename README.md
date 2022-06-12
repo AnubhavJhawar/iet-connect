@@ -9,6 +9,7 @@ Link to Website: https://iet-community.herokuapp.com/
   "mongoURI": "<your_mongoDB_Atlas_uri_with_credentials>",
   "jwtSecret": "secret",
   "githubToken": "<yoursecrectaccesstoken>"
+  "NODE_ENV":"" (either production or deployment)
 }
 ```
 
