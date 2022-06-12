@@ -1,0 +1,6 @@
+{
+    "mongoURI": "",
+    "jwtSecret":"",
+    "githubToken":"",
+    "NODE_ENV": ""
+}
